@@ -1,5 +1,5 @@
 
 
-function para(params) {
-    return params + 2;
+function comprobandoMerge(params) {
+    return params * 2 + 400;
 }
